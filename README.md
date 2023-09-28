@@ -11,7 +11,7 @@
 
 - <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="21"> **Web Development**: I enjoy building web applications using modern front-end and back-end technologies.
 
-- <img src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" width="21"> **Mobile Development**: I have a passion for mobile app development. Some of my repositories related to Android apps, often built with Java, or Flutter.
+- <img src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" width="21"> **Mobile App Development**: I have a passion for mobile app development. Some of my repositories related to Android apps, often built with Java, or Flutter.
 
 - <img src="https://media.giphy.com/media/1RJAqFnCVxZouXSf3N/giphy.gif" width="21"> **Data Science and Machine Learning**: I'm fascinated by the power of data and machine learning. Some of my projects related to data analysis and artificial intelligence.
 
