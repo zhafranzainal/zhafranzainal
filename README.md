@@ -2,7 +2,7 @@
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzhafranzainal&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzhafranzainal)
 
-### <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> What I Do
+### 👨🏻‍💻 What I Do
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
@@ -15,7 +15,7 @@
 
 - <img src="https://media.giphy.com/media/1RJAqFnCVxZouXSf3N/giphy.gif" width="21"> **Data Science and Machine Learning**: I'm fascinated by the power of data and machine learning. Some of my projects related to data analysis and artificial intelligence.
 
-### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Tech Stack
+### 🛠 Tech Stack
 
 **Languages:**
 <p>
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 </p>
 
-### <img src="https://media.giphy.com/media/LY7RTbrtVfuT01MenI/giphy.gif" width="30"> GitHub Analytics
+### ⚙️ GitHub Analytics
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=zhafranzainal&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhafranzainal&layout=compact&theme=react&langs_count=8">
@@ -91,10 +91,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zhafranzainal&theme=dark)](https://git.io/streak-stats)
 
-### <img src="https://media.giphy.com/media/biW4FC8i0hDdI9ySOA/giphy.gif" width="30"> Random Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Get in Touch <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="30">
+## 🤝🏻 Get in Touch
 
 <p>
 <a href="https://linkedin.com/in/zhafranzainal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
