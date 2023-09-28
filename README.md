@@ -7,17 +7,17 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
 - <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="21"> Like to explore new technologies and develop software solutions
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> This is my GitHub profile, where I showcase my projects, contributions, and code experiments.
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> This is my GitHub profile, where I showcase my projects, contributions, and code experiments
 
-- <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="21"> **Web Development**: I enjoy building web applications using modern front-end and back-end technologies.
+- <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="21"> **Web Development**: I enjoy building web applications using modern front-end and back-end technologies
 
-- <img src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" width="21"> **Mobile App Development**: I have a passion for mobile app development. Some of my repositories related to Android apps, often built with Java, or Flutter.
+- <img src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" width="21"> **Mobile App Development**: I have a passion for mobile app development. Some of my repositories related to Android apps, often built with Java, or Flutter
 
-- <img src="https://media.giphy.com/media/1RJAqFnCVxZouXSf3N/giphy.gif" width="21"> **Data Science and Machine Learning**: I'm fascinated by the power of data and machine learning. Some of my projects related to data analysis and artificial intelligence.
+- <img src="https://media.giphy.com/media/1RJAqFnCVxZouXSf3N/giphy.gif" width="21"> **Data Science and Machine Learning**: I'm fascinated by the power of data and machine learning. Some of my projects related to data analysis and artificial intelligence
 
 ### 🛠 Tech Stack
 
-**Languages:**
+<img src="https://media.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.gif" width="21"> **Languages:**
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
-**Frameworks & Libraries:**
+<img src="https://media.giphy.com/media/cPbGOqblS85sAn9z1D/giphy.gif" width="21"> **Frameworks & Libraries:**
 <p>
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
@@ -48,14 +48,14 @@
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
 </p>
 
-**Databases:**
+<img src="https://pngimg.com/uploads/database/database_PNG2.png" width="21"> **Databases:**
 <p>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 </p>
 
-**Machine Learning & Data Science Frameworks:**
+<img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="21"> **Machine Learning & Data Science Frameworks:**
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -64,7 +64,7 @@
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-**Others:**
+<img src="https://media.giphy.com/media/v9lZy0d0A1rp3qg3ff/giphy.gif" width="21"> **Others:**
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
