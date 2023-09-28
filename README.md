@@ -94,7 +94,7 @@
 ### <img src="https://media.giphy.com/media/biW4FC8i0hDdI9ySOA/giphy.gif" width="30"> Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="30"> Get in Touch
+## Get in Touch <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="30">
 
 <p>
 <a href="https://linkedin.com/in/zhafranzainal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
