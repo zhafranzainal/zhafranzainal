@@ -1,22 +1,21 @@
-
-## Hi there, Zhafran here! 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Zhafran%20Zainal&fontSize=60&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full-stack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzhafranzainal&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzhafranzainal)
 
-### 👨🏻‍💻 What I Do
+### <img src="https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="30"> What I Do
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width:100%;"></a></p>
 
-- 💡 Like to explore new technologies and develop software solutions
-- ✍️ This is my GitHub profile, where I showcase my projects, contributions, and code experiments.
+- <img src="https://media.giphy.com/media/JGmjLpmTPS5QmgLFAM/giphy.gif" width="21"> Like to explore new technologies and develop software solutions
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> This is my GitHub profile, where I showcase my projects, contributions, and code experiments.
 
-- 💻 **Web Development**: I enjoy building web applications using modern front-end and back-end technologies.
+- <img src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" width="21"> **Web Development**: I enjoy building web applications using modern front-end and back-end technologies.
 
-- 📱 **Mobile Development**: I have a passion for mobile app development. Some of my repositories related to Android apps, often built with Java, or Flutter.
+- <img src="https://media.giphy.com/media/SQTSmiJl0uKoZNdv1T/giphy.gif" width="21"> **Mobile Development**: I have a passion for mobile app development. Some of my repositories related to Android apps, often built with Java, or Flutter.
 
-- 🧠 **Data Science and Machine Learning**: I'm fascinated by the power of data and machine learning. Some of my projects related to data analysis and artificial intelligence.
+- <img src="https://media.giphy.com/media/1RJAqFnCVxZouXSf3N/giphy.gif" width="21"> **Data Science and Machine Learning**: I'm fascinated by the power of data and machine learning. Some of my projects related to data analysis and artificial intelligence.
 
-### 🛠 Tech Stack
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Tech Stack
 
 **Languages:**
 <p>
@@ -84,7 +83,7 @@
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 </p>
 
-### ⚙️ GitHub Analytics
+### <img src="https://media.giphy.com/media/LY7RTbrtVfuT01MenI/giphy.gif" width="30"> GitHub Analytics
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=zhafranzainal&show_icons=true&theme=react">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhafranzainal&layout=compact&theme=react&langs_count=8">
@@ -92,18 +91,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zhafranzainal&theme=dark)](https://git.io/streak-stats)
 
-### ✍️ Random Quote
+### <img src="https://media.giphy.com/media/biW4FC8i0hDdI9ySOA/giphy.gif" width="30"> Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 🤝🏻 Get in Touch
-
-Feel free to get in touch with me through the following channels:
+## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="30"> Get in Touch
 
 <p>
 <a href="https://linkedin.com/in/zhafranzainal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:zhafranzainal11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-Thank you for visiting my GitHub profile! I'm always open to collaboration, discussions, and feedback, so don't hesitate to reach out.
-
-Let's connect, learn, and build amazing things together. Happy coding! 🚀👨‍💻
