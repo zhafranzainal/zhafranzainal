@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Zhafran%20Zainal&fontSize=60&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full-stack%20Developer&descAlignY=55&descAlign=58&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=250&section=header&text=Zhafran%20Zainal&fontSize=60&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full-stack%20Developer&descAlignY=55&descAlign=58&fontColor=ffffff)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzhafranzainal&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzhafranzainal)
 
