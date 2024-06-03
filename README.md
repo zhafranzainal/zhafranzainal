@@ -93,7 +93,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=zhafranzainal&theme=dark)](https://git.io/streak-stats)
 
 ### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ## 🤝🏻 Get in Touch
 
